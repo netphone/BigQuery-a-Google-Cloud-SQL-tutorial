@@ -1,8 +1,9 @@
 ## BigQuery (a Google Cloud SQL) tutorial
-#### Resource: GOOGLE BIGQUERY 
+### Resource: GOOGLE BIGQUERY 
 * Homepage: <https://cloud.google.com/bigquery>
 
-#### Contents:
+### Contents:
+#### first query.ipynb
 1. getting notebook setup
 2. Checking the dataset structure
 3. Chekcking the size of a query before running it
