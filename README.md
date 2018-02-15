@@ -1,1 +1,1 @@
-# BigQuery-a-Google-Cloud-SQL-tutorial
+# BigQuery (a Google Cloud SQL) tutorial
